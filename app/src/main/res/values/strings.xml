@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roulette game</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="score">Score:</string>
+    <string name="_0">0</string>
+
+    <string name="facebook_app_id">682740812263995</string>
+    <string name="fb_login_protocol_scheme">fb[682740812263995]</string>
+</resources>
